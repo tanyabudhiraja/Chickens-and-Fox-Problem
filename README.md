@@ -35,6 +35,8 @@ Requirements:
 Python 3.10 or later
 No external libraries required
 
-Purpose
+
+Purpose:
+---
 
 This project was created as a simple way to understand and compare different search algorithms for solving a well-known AI problem. It’s a useful example for anyone learning about state space search and algorithm design in Python.
