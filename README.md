@@ -18,6 +18,7 @@ Project Overview:
 How to Run:
 ----
 Clone the repository and run the main script:
+
 python3 foxes.py
 
 
