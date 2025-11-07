@@ -9,10 +9,10 @@ outnumber the chickens on either side.
 
 Project Overview:
 ----
-  FoxProblem.py – defines the problem setup, rules, and valid state transitions
-  uninformed_search.py – implements BFS, DFS, and IDS search algorithms
-  SearchSolution.py – formats and stores the results of each search
-  foxes.py – main script that runs the algorithms and prints the results
+  - FoxProblem.py – defines the problem setup, rules, and valid state transitions
+  - uninformed_search.py – implements BFS, DFS, and IDS search algorithms
+  - SearchSolution.py – formats and stores the results of each search
+  - foxes.py – main script that runs the algorithms and prints the results
 
 
 How to Run:
